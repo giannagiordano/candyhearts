@@ -1,0 +1,14 @@
+# My second project
+------
+
+### Candy Hearts
+![candyhearts1](images/candyheartsketch1.png?raw=true "candyhearts1")
+![candyhearts2](images/candyheartsketch2.png?raw=true "candyhearts2")
+
+For my second project, I created a sketch called "Candy Hearts." I started working on this sketch as Valentine's Day was approaching and there seemed to be hearts, candy, flowers, etc. everywhere. I wanted my sketch to be fun, playful, and almost juvenile in nature because Valentine's Day always reminds me of my childhood. Therefore, I chose to start with pastel pink and pastel red background colors as well as clipart heart images. I created two classes, one for clipart hearts and one for "candies," which are simply pastel-colored ellipses.
+
+To implement the interactive features we learned in class, I put the hearts and the candies into dynamic arrays. I wrote an if else statement so that, depending on the mouse's location, the user can interact with either the hearts on the pink background or the candies on the red background. I had a lot of fun adding ways for users to interact with my sketch. With the hearts, users can click the mouse to create a new red heart, drag the mouse to create new pink hearts, and rollover the hearts to change them to purple hearts. With the candies, users can click the mouse to create a new pastel green candy, drag the mouse to create random pastel-colored candies, and rollover the candies to change them to pastel pink. I think these colors complement the pastel red background and the other features of my sketch well. Also, to allow for continuous interaction, I use splice, so the oldest hearts and candies disappear, allowing the user to create more. 
+
+As I mentioned, I wanted my sketch to be playful and juvenile, so I was drawn to the p5.play.js library. I wanted to add another fun and interactive component, so I include an animated ghost as well as three pieces of candyheart clipart. The ghost moves with the up, down, left, and right arrows and also spins when the mouse is pressed. The ghost can also push the candyheart images off the screen. 
+
+I love this sketch because, at any given moment, it reminds me of a Valentine's Day card, but, thanks to chance operations, it looks different every time. I also love the way the turquoise color of the ghost and the light green color of the candyheart clipart complement the pastel pink and pastel red backgrounds as well as the floating hearts and candies. I hope that others find my sketch as amusing as I do and enjoy playing around with it. I'm sure other people are also reminded of their childhoods on Valentine's Day and I hope my sketch brings back positive memories. I got really excited when I showed my roommate my sketch and she told me that it reminded her of a game that her aunt sent her one Valentine's Day as a kid!
